@@ -1,0 +1,11 @@
+C:\Users\Аленка\source\repos\Mailing (SMTP)\bin\Debug\Mailing (SMTP).exe.config
+C:\Users\Аленка\source\repos\Mailing (SMTP)\bin\Debug\Mailing (SMTP).exe
+C:\Users\Аленка\source\repos\Mailing (SMTP)\bin\Debug\Mailing (SMTP).pdb
+C:\Users\Аленка\source\repos\Mailing (SMTP)\obj\Debug\Mailing (SMTP).csprojAssemblyReference.cache
+C:\Users\Аленка\source\repos\Mailing (SMTP)\obj\Debug\Mailing__SMTP_.Form1.resources
+C:\Users\Аленка\source\repos\Mailing (SMTP)\obj\Debug\Mailing__SMTP_.Properties.Resources.resources
+C:\Users\Аленка\source\repos\Mailing (SMTP)\obj\Debug\Mailing (SMTP).csproj.GenerateResource.cache
+C:\Users\Аленка\source\repos\Mailing (SMTP)\obj\Debug\Mailing (SMTP).csproj.CoreCompileInputs.cache
+C:\Users\Аленка\source\repos\Mailing (SMTP)\obj\Debug\Mailing (SMTP).exe
+C:\Users\Аленка\source\repos\Mailing (SMTP)\obj\Debug\Mailing (SMTP).pdb
+C:\Users\Аленка\source\repos\Mailing (SMTP)\obj\Debug\Mailing__SMTP_.NewMail.resources
